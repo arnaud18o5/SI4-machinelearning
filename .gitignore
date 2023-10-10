@@ -1,0 +1,8 @@
+# Ignore les fichiers .DS_Store générés par macOS
+.DS_Store
+
+# Ignore les fichiers .DS_Store dans tous les répertoires
+**/.DS_Store
+
+# Ignore les fichiers .DS_Store dans le répertoire racine
+/.DS_Store
